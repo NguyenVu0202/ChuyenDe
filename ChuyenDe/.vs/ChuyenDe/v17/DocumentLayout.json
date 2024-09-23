@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\ASP.Net Core\\ChuyenDe\\",
+  "WorkspaceRootPath": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|g:\\asp.net core\\chuyende\\chuyende\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|c:\\users\\tonga\\onedrive\\m\u00E1y t\u00EDnh\\chuyende\\chuyende\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|c:\\users\\tonga\\onedrive\\m\u00E1y t\u00EDnh\\chuyende\\chuyende\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\chuyende\\frmloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\frmloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\chuyende\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\chuyende\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,23 +30,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "ChuyenDe\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "ChuyenDe\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:45:31.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLoai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\frmLoai.cs",
+              "RelativeDocumentMoniker": "ChuyenDe\\frmLoai.cs",
+              "ToolTip": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\frmLoai.cs [Design]",
+              "RelativeToolTip": "ChuyenDe\\frmLoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:21:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNhaCungCap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "ChuyenDe\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\frmNhaCungCap.cs [Design]",
+              "RelativeToolTip": "ChuyenDe\\frmNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:50:10.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\Program.cs",
+              "RelativeDocumentMoniker": "ChuyenDe\\Program.cs",
+              "ToolTip": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\Program.cs",
+              "RelativeToolTip": "ChuyenDe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:04:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "G:\\ASP.Net Core\\ChuyenDe\\ChuyenDe\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\Form1.cs",
               "RelativeDocumentMoniker": "ChuyenDe\\Form1.cs",
-              "ToolTip": "G:\\ASP.Net Core\\ChuyenDe\\ChuyenDe\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\tonga\\OneDrive\\M\u00E1y t\u00EDnh\\ChuyenDe\\ChuyenDe\\Form1.cs [Design]",
               "RelativeToolTip": "ChuyenDe\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T14:32:27.427Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-21T14:32:27.427Z"
             }
           ]
         }
