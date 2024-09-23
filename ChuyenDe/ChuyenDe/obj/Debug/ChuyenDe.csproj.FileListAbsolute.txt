@@ -1,0 +1,11 @@
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\bin\Debug\ChuyenDe.exe.config
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\bin\Debug\ChuyenDe.exe
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\bin\Debug\ChuyenDe.pdb
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.csproj.AssemblyReference.cache
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.frmNhaCungCap.resources
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.Properties.Resources.resources
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.csproj.GenerateResource.cache
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.csproj.CoreCompileInputs.cache
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.exe
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.pdb
+C:\Users\tonga\OneDrive\Máy tính\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.frmLoai.resources
