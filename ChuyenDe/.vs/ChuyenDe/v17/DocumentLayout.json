@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\ASP.Net Core\\ChuyenDe\\",
+  "WorkspaceRootPath": "G:\\ChuyenDe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|g:\\asp.net core\\chuyende\\chuyende\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|g:\\chuyende\\chuyende\\frmtimkiemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\frmtimkiemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|g:\\chuyende\\chuyende\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99394921-1C60-4060-BF86-6565D3FF6C11}|ChuyenDe\\ChuyenDe.csproj|solutionrelative:chuyende\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,10 +27,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmTimKiemSanPham.cs [Design]",
+              "DocumentMoniker": "G:\\ChuyenDe\\ChuyenDe\\frmTimKiemSanPham.cs",
+              "RelativeDocumentMoniker": "ChuyenDe\\frmTimKiemSanPham.cs",
+              "ToolTip": "G:\\ChuyenDe\\ChuyenDe\\frmTimKiemSanPham.cs [Design]",
+              "RelativeToolTip": "ChuyenDe\\frmTimKiemSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:59:18.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "G:\\ASP.Net Core\\ChuyenDe\\ChuyenDe\\Form1.cs",
+              "DocumentMoniker": "G:\\ChuyenDe\\ChuyenDe\\Form1.cs",
               "RelativeDocumentMoniker": "ChuyenDe\\Form1.cs",
-              "ToolTip": "G:\\ASP.Net Core\\ChuyenDe\\ChuyenDe\\Form1.cs [Design]",
+              "ToolTip": "G:\\ChuyenDe\\ChuyenDe\\Form1.cs [Design]",
               "RelativeToolTip": "ChuyenDe\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T14:32:27.427Z",
