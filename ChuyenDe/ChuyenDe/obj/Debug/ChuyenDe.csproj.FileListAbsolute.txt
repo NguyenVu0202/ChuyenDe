@@ -1,0 +1,14 @@
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\bin\Debug\ChuyenDe.exe.config
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\bin\Debug\ChuyenDe.exe
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\bin\Debug\ChuyenDe.pdb
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.csproj.AssemblyReference.cache
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.Form1.resources
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.frmCuaHang.resources
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.frmKho.resources
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.frmNhanVien.resources
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.frmTimKiemNhanVien.resources
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.Properties.Resources.resources
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.csproj.GenerateResource.cache
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.csproj.CoreCompileInputs.cache
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.exe
+D:\HK6\Chuyên Đề Ứng Dụng 1\Bách Hóa Xanh\ChuyenDe\ChuyenDe\obj\Debug\ChuyenDe.pdb
